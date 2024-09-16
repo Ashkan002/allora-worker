@@ -48,7 +48,7 @@ cat <<EOF > config.json
         "alloraHomeDir": "",
         "gas": "1000000",
         "gasAdjustment": 1.0,
-        "nodeRpc": "https://allora-rpc.testnet-1.testnet.allora.network/",
+        "nodeRpc": "https://rpc.ankr.com/allora_testnet/8274cf11652a23154134f333c3634ac6ee9c63b626c33f5492a9d02cafa78424",
         "maxRetries": 1,
         "delay": 1,
         "submitTx": false
